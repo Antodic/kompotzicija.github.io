@@ -1,0 +1,24 @@
+Command description,linux,windows
+print working directory,pwd,pwd
+get my computer's network name,hostname,hostname
+make directory,mkdir,mkdir
+change directory,cd,cd
+list directory,ls,ls
+remove directory,rmdir,rmdir
+push directory,pushd,pushd
+pop directory,popd,popd
+copy a file or directory,cp,cp
+move a file or directory,mv,mv
+page through a file,less,more
+print the whole file,cat,cat
+execute arguments,xargs,forfiles
+find files,find,dir -r
+find things inside files,grep,Select-string
+read a manual page,man,help
+find which man page is appropriate,apropos,helpctr
+look at your environment,env,env
+print some arguments,echo,echo
+export/set a new environment variable,export,set
+exit the shell,exit,exit
+become super user root,sudo,runas
+make an empty file,touch,new-item
